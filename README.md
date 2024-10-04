@@ -2,6 +2,7 @@
 This is FP20 Analytics Challenge I joined to practice and improve my data analysis and data visualization skills. 
 ## Overview
 This project presents an in-depth analysis of critical performance metrics in the retail logistics sector. It focuses on evaluating key indicators such as lost revenue from transactions, prolonged delivery times, and product return rates to extract actionable insights. The aim is to support the creation of a resilient logistics strategy that enhances operational efficiency while aligning with customer demands for fast and cost-effective deliveries
+### Link to Interactive Dashboard Microsoft PowerBI: https://shorturl.at/UAe4R
 ## Objective
 1. City/State Retail Supply Chain Management: Identify the city or state with the best retail supply chain management practices.
 2. Average Delivery Days by Product Category: Determine the average delivery days for different product categories.
