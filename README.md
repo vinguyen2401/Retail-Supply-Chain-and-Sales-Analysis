@@ -19,7 +19,7 @@ The analysis focuses on the performance of different product categories in retai
 - **Top Profitable Customers by Product Category:** Identify the top 5 most profitable customers for each product category.
 
 ---
-
+## Data Structure
 ## Insights Deep Dive by Category
 
 ### Best Supply Chain Performance by Category:
