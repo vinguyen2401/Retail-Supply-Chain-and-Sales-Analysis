@@ -5,7 +5,9 @@ This project is part of the **FP20 Analytics Challenge**, undertaken to refine m
 ## Project Background
 The analysis focuses on the performance of different product categories in retail logistics, specifically targeting delivery efficiency, return rates, and profitability. The project aims to uncover category-specific insights to help create a logistics strategy that not only improves operational efficiency but also aligns with customer expectations for timely and cost-effective deliveries.
 
-[Interactive Dashboard on Microsoft PowerBI: https://shorturl.at/UAe4R]
+## Data Structure
+![Sale Analysis Data Model](https://raw.githubusercontent.com/vinguyen2401/Retail-Supply-Chain-and-Sales-Analysis/main/Sale%20Analysis%20data%20model.png)
+
 
 ---
 
@@ -19,7 +21,7 @@ The analysis focuses on the performance of different product categories in retai
 - **Top Profitable Customers by Product Category:** Identify the top 5 most profitable customers for each product category.
 
 ---
-## Data Structure
+
 ## Insights Deep Dive by Category
 
 ### Best Supply Chain Performance by Category:
@@ -55,11 +57,13 @@ The analysis focuses on the performance of different product categories in retai
 - **Furniture:** Experiences a moderate return rate of 7.5%, with potential improvement areas in packaging and handling.
 - **Office Supplies:** Shows the lowest return rate at 4.3%, indicating customer satisfaction with this category.
 - **Technology:** The highest return rate of 10.2%, possibly linked to product quality or technical issues.
+![Supply Chain And Sale Analysis - Page 1](https://raw.githubusercontent.com/vinguyen2401/Retail-Supply-Chain-and-Sales-Analysis/main/Supply%20Chain%20And%20Sale%20Analysis-trang-1.jpg)
 
 ### Top 5 Profitable Customers by Category:
 - **Furniture:** Tamara Chand leads with $4.5k in profit.
 - **Office Supplies:** Raymond Buch contributes $3.2k in profits.
 - **Technology:** Sanjit Chand tops the list with $5.8k in profit.
+![Supply Chain And Sale Analysis - Page 2](https://raw.githubusercontent.com/vinguyen2401/Retail-Supply-Chain-and-Sales-Analysis/main/Supply%20Chain%20And%20Sale%20Analysis-trang-2.jpg)
 
 ---
 
@@ -82,3 +86,6 @@ This analysis zeroes in on the retail supply chain's performance across individu
 ---
 
 This customized approach highlights category-specific challenges and opportunities, leading to targeted actions for improving each product line's supply chain performance.
+
+
+[Sale]: Sale
